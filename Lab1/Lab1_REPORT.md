@@ -6,7 +6,7 @@ Group: U4225
 Author: Duchenko Yulia Viktorovna  
 Lab: Lab1  
 Date of create: 18.11.2025   
-Date of finished: __.11.2025 
+Date of finished: 18.11.2025 
 
 ## Отчет по лабораторной работе №1 
 ## "Обзор Google Cloud и исследование основных сервисов."
